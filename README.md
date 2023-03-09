@@ -1,5 +1,5 @@
 ## CSE4007 : Artificial Intelligence
-> 과제 1 : N-Queens Problem을 BFS, Hill Climbing, Cosstraint Satisfaction Problems 알고리즘으로 해결하기
+> 과제 1 : N-Queens Problem을 BFS, Hill Climbing, Constraint Satisfaction Problems 알고리즘으로 해결하기
 
 * N*N 크기의 체스판에 N개의 퀸들이 서로 공격하지 않는 배치의 경우의 수를 구하는 문제
 * 임의의 N에 대해 알고리즘별 solution 출력
